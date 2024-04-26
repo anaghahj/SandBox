@@ -8,8 +8,7 @@ A flutter application where students can upload their achievements which will he
 4. Turn on the debugging mode on your mobile(preferably android device)
 
 ### Steps to run the Mobile Application
-
-
+Run [*"sql"*](https://github.com/anaghahj/SandBox/blob/main/dbms_student.sql) in mysql instance of your phpmyadmin with all the php files of the folder [*"db"*](https://github.com/anaghahj/SandBox/tree/main/lib/db) in folder named "dbms_company" in "C:\xampp\htdocs".
 1. Run the following command in your desired folder
 ```sh
       flutter create appname-in-lowercase
