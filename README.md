@@ -1,4 +1,4 @@
-# TECHUB
+# SANDBOX
 A flutter application where students can upload their achievements which will help teachers to understand the capabilities of the students and assign projects. It is connected to MySQL database through Xampp server. I have used php script to connect flutter app and database.
 ### Requirements for Mobile Applicaton
 
