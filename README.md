@@ -27,5 +27,29 @@ Run [*"sql"*](https://github.com/anaghahj/SandBox/blob/main/dbms_student.sql) in
       flutter run
 ```
 
+Here are few snapshots of the app
 
+STUDENTS
+
+![screenshot](student.jpeg)
+
+TEACHERS
+
+![screenshot](teachers.jpeg)
+
+STUDENT'S COURSE AND ACTIVITIES
+
+![screenshot](https://github.com/anaghahj/SandBox/blob/main/course%20and%20activities.jpeg)
+
+ADDING A NEW STUDENT
+
+![screenshot](https://github.com/anaghahj/SandBox/blob/main/student%20insert.jpeg)
+
+TEACHER'S PROJECTS
+
+[![screenshot](https://github.com/anaghahj/SandBox/blob/main/teacher%20projects.jpeg)
+
+ADDING A NEW TEACHER
+
+![screenshot](teacherinsert.jpeg)
 
